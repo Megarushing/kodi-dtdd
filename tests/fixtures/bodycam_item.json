@@ -1,0 +1,120 @@
+{
+ "id": 663113,
+ "name": "Body Cam",
+ "releaseYear": 2018,
+ "itemTypeId": 16,
+ "imdbId": "tt9425082",
+ "tmdbId": 91183,
+ "topicItemStats": [
+  {
+   "topicId": 153,
+   "yesSum": 4,
+   "noSum": 1
+  },
+  {
+   "topicId": 153,
+   "yesSum": 0,
+   "noSum": 1
+  },
+  {
+   "topicId": 153,
+   "yesSum": 1,
+   "noSum": 1
+  },
+  {
+   "topicId": 153,
+   "yesSum": 0,
+   "noSum": 1
+  },
+  {
+   "topicId": 153,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 153,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 153,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 153,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 153,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 158,
+   "yesSum": 1,
+   "noSum": 1
+  },
+  {
+   "topicId": 187,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 187,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 187,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 187,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 229,
+   "yesSum": 2,
+   "noSum": 0
+  },
+  {
+   "topicId": 229,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 229,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 229,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 286,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 286,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 286,
+   "yesSum": 1,
+   "noSum": 0
+  },
+  {
+   "topicId": 286,
+   "yesSum": 1,
+   "noSum": 0
+  }
+ ]
+}

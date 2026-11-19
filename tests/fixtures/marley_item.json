@@ -1,0 +1,1045 @@
+{
+ "id": 17899,
+ "name": "Marley & Me",
+ "releaseYear": 2008,
+ "itemTypeId": 15,
+ "imdbId": "tt0822832",
+ "tmdbId": 14306,
+ "topicItemStats": [
+  {
+   "topicId": 153,
+   "yesSum": 940,
+   "noSum": 44
+  },
+  {
+   "topicId": 156,
+   "yesSum": 1,
+   "noSum": 2
+  },
+  {
+   "topicId": 158,
+   "yesSum": 22,
+   "noSum": 57
+  },
+  {
+   "topicId": 161,
+   "yesSum": 2,
+   "noSum": 52
+  },
+  {
+   "topicId": 164,
+   "yesSum": 2,
+   "noSum": 61
+  },
+  {
+   "topicId": 165,
+   "yesSum": 5,
+   "noSum": 84
+  },
+  {
+   "topicId": 167,
+   "yesSum": 3,
+   "noSum": 45
+  },
+  {
+   "topicId": 168,
+   "yesSum": 3,
+   "noSum": 59
+  },
+  {
+   "topicId": 171,
+   "yesSum": 1,
+   "noSum": 59
+  },
+  {
+   "topicId": 174,
+   "yesSum": 2,
+   "noSum": 53
+  },
+  {
+   "topicId": 176,
+   "yesSum": 13,
+   "noSum": 38
+  },
+  {
+   "topicId": 177,
+   "yesSum": 5,
+   "noSum": 54
+  },
+  {
+   "topicId": 180,
+   "yesSum": 6,
+   "noSum": 42
+  },
+  {
+   "topicId": 181,
+   "yesSum": 1,
+   "noSum": 41
+  },
+  {
+   "topicId": 182,
+   "yesSum": 9,
+   "noSum": 64
+  },
+  {
+   "topicId": 183,
+   "yesSum": 10,
+   "noSum": 106
+  },
+  {
+   "topicId": 184,
+   "yesSum": 2,
+   "noSum": 38
+  },
+  {
+   "topicId": 185,
+   "yesSum": 2,
+   "noSum": 0
+  },
+  {
+   "topicId": 186,
+   "yesSum": 9,
+   "noSum": 136
+  },
+  {
+   "topicId": 187,
+   "yesSum": 4,
+   "noSum": 49
+  },
+  {
+   "topicId": 188,
+   "yesSum": 23,
+   "noSum": 25
+  },
+  {
+   "topicId": 189,
+   "yesSum": 238,
+   "noSum": 39
+  },
+  {
+   "topicId": 190,
+   "yesSum": 78,
+   "noSum": 1
+  },
+  {
+   "topicId": 191,
+   "yesSum": 5,
+   "noSum": 36
+  },
+  {
+   "topicId": 192,
+   "yesSum": 70,
+   "noSum": 0
+  },
+  {
+   "topicId": 193,
+   "yesSum": 6,
+   "noSum": 59
+  },
+  {
+   "topicId": 194,
+   "yesSum": 3,
+   "noSum": 40
+  },
+  {
+   "topicId": 195,
+   "yesSum": 1,
+   "noSum": 38
+  },
+  {
+   "topicId": 196,
+   "yesSum": 4,
+   "noSum": 95
+  },
+  {
+   "topicId": 197,
+   "yesSum": 53,
+   "noSum": 9
+  },
+  {
+   "topicId": 198,
+   "yesSum": 3,
+   "noSum": 35
+  },
+  {
+   "topicId": 199,
+   "yesSum": 2,
+   "noSum": 45
+  },
+  {
+   "topicId": 200,
+   "yesSum": 1,
+   "noSum": 54
+  },
+  {
+   "topicId": 201,
+   "yesSum": 68,
+   "noSum": 15
+  },
+  {
+   "topicId": 202,
+   "yesSum": 1,
+   "noSum": 35
+  },
+  {
+   "topicId": 203,
+   "yesSum": 2,
+   "noSum": 53
+  },
+  {
+   "topicId": 204,
+   "yesSum": 2,
+   "noSum": 38
+  },
+  {
+   "topicId": 205,
+   "yesSum": 1,
+   "noSum": 41
+  },
+  {
+   "topicId": 206,
+   "yesSum": 2,
+   "noSum": 48
+  },
+  {
+   "topicId": 207,
+   "yesSum": 2,
+   "noSum": 44
+  },
+  {
+   "topicId": 208,
+   "yesSum": 1,
+   "noSum": 32
+  },
+  {
+   "topicId": 209,
+   "yesSum": 1,
+   "noSum": 39
+  },
+  {
+   "topicId": 210,
+   "yesSum": 5,
+   "noSum": 58
+  },
+  {
+   "topicId": 211,
+   "yesSum": 2,
+   "noSum": 39
+  },
+  {
+   "topicId": 212,
+   "yesSum": 1,
+   "noSum": 34
+  },
+  {
+   "topicId": 213,
+   "yesSum": 8,
+   "noSum": 79
+  },
+  {
+   "topicId": 214,
+   "yesSum": 5,
+   "noSum": 76
+  },
+  {
+   "topicId": 215,
+   "yesSum": 77,
+   "noSum": 3
+  },
+  {
+   "topicId": 216,
+   "yesSum": 2,
+   "noSum": 47
+  },
+  {
+   "topicId": 217,
+   "yesSum": 2,
+   "noSum": 36
+  },
+  {
+   "topicId": 218,
+   "yesSum": 1,
+   "noSum": 57
+  },
+  {
+   "topicId": 219,
+   "yesSum": 2,
+   "noSum": 58
+  },
+  {
+   "topicId": 220,
+   "yesSum": 1,
+   "noSum": 40
+  },
+  {
+   "topicId": 221,
+   "yesSum": 3,
+   "noSum": 30
+  },
+  {
+   "topicId": 222,
+   "yesSum": 112,
+   "noSum": 6
+  },
+  {
+   "topicId": 223,
+   "yesSum": 3,
+   "noSum": 51
+  },
+  {
+   "topicId": 224,
+   "yesSum": 1,
+   "noSum": 38
+  },
+  {
+   "topicId": 225,
+   "yesSum": 2,
+   "noSum": 57
+  },
+  {
+   "topicId": 226,
+   "yesSum": 1,
+   "noSum": 33
+  },
+  {
+   "topicId": 227,
+   "yesSum": 1,
+   "noSum": 43
+  },
+  {
+   "topicId": 228,
+   "yesSum": 49,
+   "noSum": 6
+  },
+  {
+   "topicId": 229,
+   "yesSum": 6,
+   "noSum": 140
+  },
+  {
+   "topicId": 230,
+   "yesSum": 3,
+   "noSum": 53
+  },
+  {
+   "topicId": 231,
+   "yesSum": 7,
+   "noSum": 101
+  },
+  {
+   "topicId": 232,
+   "yesSum": 3,
+   "noSum": 29
+  },
+  {
+   "topicId": 233,
+   "yesSum": 2,
+   "noSum": 30
+  },
+  {
+   "topicId": 234,
+   "yesSum": 4,
+   "noSum": 32
+  },
+  {
+   "topicId": 235,
+   "yesSum": 4,
+   "noSum": 30
+  },
+  {
+   "topicId": 236,
+   "yesSum": 3,
+   "noSum": 37
+  },
+  {
+   "topicId": 237,
+   "yesSum": 2,
+   "noSum": 52
+  },
+  {
+   "topicId": 238,
+   "yesSum": 6,
+   "noSum": 47
+  },
+  {
+   "topicId": 239,
+   "yesSum": 3,
+   "noSum": 35
+  },
+  {
+   "topicId": 240,
+   "yesSum": 1,
+   "noSum": 37
+  },
+  {
+   "topicId": 241,
+   "yesSum": 3,
+   "noSum": 41
+  },
+  {
+   "topicId": 242,
+   "yesSum": 1,
+   "noSum": 50
+  },
+  {
+   "topicId": 243,
+   "yesSum": 2,
+   "noSum": 38
+  },
+  {
+   "topicId": 244,
+   "yesSum": 1,
+   "noSum": 28
+  },
+  {
+   "topicId": 245,
+   "yesSum": 2,
+   "noSum": 30
+  },
+  {
+   "topicId": 246,
+   "yesSum": 1,
+   "noSum": 26
+  },
+  {
+   "topicId": 247,
+   "yesSum": 2,
+   "noSum": 28
+  },
+  {
+   "topicId": 248,
+   "yesSum": 1,
+   "noSum": 27
+  },
+  {
+   "topicId": 250,
+   "yesSum": 0,
+   "noSum": 41
+  },
+  {
+   "topicId": 251,
+   "yesSum": 2,
+   "noSum": 29
+  },
+  {
+   "topicId": 252,
+   "yesSum": 169,
+   "noSum": 9
+  },
+  {
+   "topicId": 253,
+   "yesSum": 1,
+   "noSum": 31
+  },
+  {
+   "topicId": 254,
+   "yesSum": 0,
+   "noSum": 42
+  },
+  {
+   "topicId": 255,
+   "yesSum": 0,
+   "noSum": 29
+  },
+  {
+   "topicId": 256,
+   "yesSum": 0,
+   "noSum": 22
+  },
+  {
+   "topicId": 257,
+   "yesSum": 3,
+   "noSum": 17
+  },
+  {
+   "topicId": 258,
+   "yesSum": 0,
+   "noSum": 33
+  },
+  {
+   "topicId": 259,
+   "yesSum": 1,
+   "noSum": 21
+  },
+  {
+   "topicId": 260,
+   "yesSum": 0,
+   "noSum": 19
+  },
+  {
+   "topicId": 261,
+   "yesSum": 31,
+   "noSum": 0
+  },
+  {
+   "topicId": 262,
+   "yesSum": 0,
+   "noSum": 18
+  },
+  {
+   "topicId": 263,
+   "yesSum": 0,
+   "noSum": 21
+  },
+  {
+   "topicId": 264,
+   "yesSum": 0,
+   "noSum": 21
+  },
+  {
+   "topicId": 265,
+   "yesSum": 19,
+   "noSum": 2
+  },
+  {
+   "topicId": 266,
+   "yesSum": 31,
+   "noSum": 0
+  },
+  {
+   "topicId": 267,
+   "yesSum": 0,
+   "noSum": 29
+  },
+  {
+   "topicId": 268,
+   "yesSum": 0,
+   "noSum": 15
+  },
+  {
+   "topicId": 269,
+   "yesSum": 14,
+   "noSum": 2
+  },
+  {
+   "topicId": 270,
+   "yesSum": 0,
+   "noSum": 14
+  },
+  {
+   "topicId": 271,
+   "yesSum": 0,
+   "noSum": 20
+  },
+  {
+   "topicId": 272,
+   "yesSum": 1,
+   "noSum": 21
+  },
+  {
+   "topicId": 273,
+   "yesSum": 0,
+   "noSum": 16
+  },
+  {
+   "topicId": 274,
+   "yesSum": 0,
+   "noSum": 26
+  },
+  {
+   "topicId": 275,
+   "yesSum": 0,
+   "noSum": 20
+  },
+  {
+   "topicId": 276,
+   "yesSum": 1,
+   "noSum": 14
+  },
+  {
+   "topicId": 277,
+   "yesSum": 1,
+   "noSum": 13
+  },
+  {
+   "topicId": 278,
+   "yesSum": 0,
+   "noSum": 14
+  },
+  {
+   "topicId": 279,
+   "yesSum": 2,
+   "noSum": 10
+  },
+  {
+   "topicId": 280,
+   "yesSum": 0,
+   "noSum": 23
+  },
+  {
+   "topicId": 281,
+   "yesSum": 0,
+   "noSum": 18
+  },
+  {
+   "topicId": 282,
+   "yesSum": 0,
+   "noSum": 22
+  },
+  {
+   "topicId": 283,
+   "yesSum": 1,
+   "noSum": 15
+  },
+  {
+   "topicId": 284,
+   "yesSum": 0,
+   "noSum": 18
+  },
+  {
+   "topicId": 285,
+   "yesSum": 107,
+   "noSum": 2
+  },
+  {
+   "topicId": 286,
+   "yesSum": 0,
+   "noSum": 14
+  },
+  {
+   "topicId": 287,
+   "yesSum": 3,
+   "noSum": 21
+  },
+  {
+   "topicId": 288,
+   "yesSum": 0,
+   "noSum": 12
+  },
+  {
+   "topicId": 289,
+   "yesSum": 0,
+   "noSum": 18
+  },
+  {
+   "topicId": 290,
+   "yesSum": 2,
+   "noSum": 9
+  },
+  {
+   "topicId": 291,
+   "yesSum": 0,
+   "noSum": 10
+  },
+  {
+   "topicId": 292,
+   "yesSum": 0,
+   "noSum": 23
+  },
+  {
+   "topicId": 293,
+   "yesSum": 3,
+   "noSum": 31
+  },
+  {
+   "topicId": 294,
+   "yesSum": 0,
+   "noSum": 9
+  },
+  {
+   "topicId": 295,
+   "yesSum": 0,
+   "noSum": 11
+  },
+  {
+   "topicId": 296,
+   "yesSum": 0,
+   "noSum": 15
+  },
+  {
+   "topicId": 297,
+   "yesSum": 0,
+   "noSum": 11
+  },
+  {
+   "topicId": 298,
+   "yesSum": 0,
+   "noSum": 12
+  },
+  {
+   "topicId": 299,
+   "yesSum": 0,
+   "noSum": 16
+  },
+  {
+   "topicId": 300,
+   "yesSum": 0,
+   "noSum": 9
+  },
+  {
+   "topicId": 301,
+   "yesSum": 0,
+   "noSum": 12
+  },
+  {
+   "topicId": 302,
+   "yesSum": 0,
+   "noSum": 11
+  },
+  {
+   "topicId": 303,
+   "yesSum": 0,
+   "noSum": 8
+  },
+  {
+   "topicId": 304,
+   "yesSum": 0,
+   "noSum": 22
+  },
+  {
+   "topicId": 305,
+   "yesSum": 26,
+   "noSum": 1
+  },
+  {
+   "topicId": 306,
+   "yesSum": 0,
+   "noSum": 11
+  },
+  {
+   "topicId": 307,
+   "yesSum": 1,
+   "noSum": 11
+  },
+  {
+   "topicId": 308,
+   "yesSum": 0,
+   "noSum": 17
+  },
+  {
+   "topicId": 309,
+   "yesSum": 0,
+   "noSum": 11
+  },
+  {
+   "topicId": 310,
+   "yesSum": 1,
+   "noSum": 9
+  },
+  {
+   "topicId": 311,
+   "yesSum": 16,
+   "noSum": 1
+  },
+  {
+   "topicId": 312,
+   "yesSum": 0,
+   "noSum": 9
+  },
+  {
+   "topicId": 313,
+   "yesSum": 14,
+   "noSum": 0
+  },
+  {
+   "topicId": 314,
+   "yesSum": 0,
+   "noSum": 9
+  },
+  {
+   "topicId": 315,
+   "yesSum": 0,
+   "noSum": 13
+  },
+  {
+   "topicId": 316,
+   "yesSum": 0,
+   "noSum": 6
+  },
+  {
+   "topicId": 317,
+   "yesSum": 0,
+   "noSum": 6
+  },
+  {
+   "topicId": 318,
+   "yesSum": 0,
+   "noSum": 7
+  },
+  {
+   "topicId": 319,
+   "yesSum": 5,
+   "noSum": 46
+  },
+  {
+   "topicId": 321,
+   "yesSum": 0,
+   "noSum": 13
+  },
+  {
+   "topicId": 322,
+   "yesSum": 0,
+   "noSum": 10
+  },
+  {
+   "topicId": 323,
+   "yesSum": 0,
+   "noSum": 8
+  },
+  {
+   "topicId": 324,
+   "yesSum": 12,
+   "noSum": 0
+  },
+  {
+   "topicId": 325,
+   "yesSum": 0,
+   "noSum": 6
+  },
+  {
+   "topicId": 326,
+   "yesSum": 0,
+   "noSum": 13
+  },
+  {
+   "topicId": 327,
+   "yesSum": 2,
+   "noSum": 6
+  },
+  {
+   "topicId": 328,
+   "yesSum": 28,
+   "noSum": 0
+  },
+  {
+   "topicId": 329,
+   "yesSum": 0,
+   "noSum": 8
+  },
+  {
+   "topicId": 330,
+   "yesSum": 0,
+   "noSum": 19
+  },
+  {
+   "topicId": 331,
+   "yesSum": 1,
+   "noSum": 12
+  },
+  {
+   "topicId": 332,
+   "yesSum": 0,
+   "noSum": 24
+  },
+  {
+   "topicId": 334,
+   "yesSum": 0,
+   "noSum": 8
+  },
+  {
+   "topicId": 335,
+   "yesSum": 12,
+   "noSum": 1
+  },
+  {
+   "topicId": 336,
+   "yesSum": 0,
+   "noSum": 8
+  },
+  {
+   "topicId": 337,
+   "yesSum": 0,
+   "noSum": 21
+  },
+  {
+   "topicId": 338,
+   "yesSum": 1,
+   "noSum": 31
+  },
+  {
+   "topicId": 339,
+   "yesSum": 0,
+   "noSum": 7
+  },
+  {
+   "topicId": 341,
+   "yesSum": 0,
+   "noSum": 5
+  },
+  {
+   "topicId": 342,
+   "yesSum": 0,
+   "noSum": 13
+  },
+  {
+   "topicId": 343,
+   "yesSum": 19,
+   "noSum": 4
+  },
+  {
+   "topicId": 345,
+   "yesSum": 0,
+   "noSum": 9
+  },
+  {
+   "topicId": 346,
+   "yesSum": 1,
+   "noSum": 5
+  },
+  {
+   "topicId": 347,
+   "yesSum": 2,
+   "noSum": 15
+  },
+  {
+   "topicId": 348,
+   "yesSum": 2,
+   "noSum": 5
+  },
+  {
+   "topicId": 349,
+   "yesSum": 1,
+   "noSum": 6
+  },
+  {
+   "topicId": 350,
+   "yesSum": 5,
+   "noSum": 22
+  },
+  {
+   "topicId": 351,
+   "yesSum": 6,
+   "noSum": 0
+  },
+  {
+   "topicId": 352,
+   "yesSum": 1,
+   "noSum": 10
+  },
+  {
+   "topicId": 353,
+   "yesSum": 0,
+   "noSum": 9
+  },
+  {
+   "topicId": 354,
+   "yesSum": 2,
+   "noSum": 7
+  },
+  {
+   "topicId": 355,
+   "yesSum": 40,
+   "noSum": 2
+  },
+  {
+   "topicId": 356,
+   "yesSum": 1,
+   "noSum": 5
+  },
+  {
+   "topicId": 357,
+   "yesSum": 3,
+   "noSum": 7
+  },
+  {
+   "topicId": 358,
+   "yesSum": 1,
+   "noSum": 7
+  },
+  {
+   "topicId": 359,
+   "yesSum": 0,
+   "noSum": 8
+  },
+  {
+   "topicId": 360,
+   "yesSum": 0,
+   "noSum": 11
+  },
+  {
+   "topicId": 361,
+   "yesSum": 1,
+   "noSum": 9
+  },
+  {
+   "topicId": 362,
+   "yesSum": 2,
+   "noSum": 10
+  },
+  {
+   "topicId": 363,
+   "yesSum": 28,
+   "noSum": 3
+  },
+  {
+   "topicId": 364,
+   "yesSum": 4,
+   "noSum": 5
+  },
+  {
+   "topicId": 365,
+   "yesSum": 0,
+   "noSum": 12
+  },
+  {
+   "topicId": 366,
+   "yesSum": 5,
+   "noSum": 3
+  },
+  {
+   "topicId": 367,
+   "yesSum": 5,
+   "noSum": 15
+  },
+  {
+   "topicId": 368,
+   "yesSum": 1,
+   "noSum": 7
+  },
+  {
+   "topicId": 369,
+   "yesSum": 0,
+   "noSum": 5
+  },
+  {
+   "topicId": 370,
+   "yesSum": 0,
+   "noSum": 6
+  },
+  {
+   "topicId": 371,
+   "yesSum": 0,
+   "noSum": 3
+  },
+  {
+   "topicId": 372,
+   "yesSum": 0,
+   "noSum": 3
+  },
+  {
+   "topicId": 373,
+   "yesSum": 1,
+   "noSum": 3
+  },
+  {
+   "topicId": 375,
+   "yesSum": 0,
+   "noSum": 4
+  },
+  {
+   "topicId": 376,
+   "yesSum": 0,
+   "noSum": 3
+  },
+  {
+   "topicId": 377,
+   "yesSum": 0,
+   "noSum": 3
+  },
+  {
+   "topicId": 378,
+   "yesSum": 0,
+   "noSum": 3
+  },
+  {
+   "topicId": 393,
+   "yesSum": 0,
+   "noSum": 1
+  },
+  {
+   "topicId": 398,
+   "yesSum": 0,
+   "noSum": 1
+  }
+ ]
+}

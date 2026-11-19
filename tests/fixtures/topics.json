@@ -1,0 +1,1146 @@
+[
+ {
+  "id": 261,
+  "name": "a baby cries"
+ },
+ {
+  "id": 264,
+  "name": "a baby is stillborn"
+ },
+ {
+  "id": 400,
+  "name": "a bug is killed"
+ },
+ {
+  "id": 429,
+  "name": "a building collapses"
+ },
+ {
+  "id": 184,
+  "name": "a car crashes"
+ },
+ {
+  "id": 269,
+  "name": "a car honks or tires screech"
+ },
+ {
+  "id": 186,
+  "name": "a cat dies"
+ },
+ {
+  "id": 425,
+  "name": "a child gets lost"
+ },
+ {
+  "id": 293,
+  "name": "a child is abandoned by a parent or guardian"
+ },
+ {
+  "id": 253,
+  "name": "A child's dear toy is destroyed"
+ },
+ {
+  "id": 380,
+  "name": "a corpse is shown"
+ },
+ {
+  "id": 430,
+  "name": "a disability is demonized"
+ },
+ {
+  "id": 460,
+  "name": "a disability is miraculously cured"
+ },
+ {
+  "id": 422,
+  "name": "a disabled person dies"
+ },
+ {
+  "id": 153,
+  "name": "a dog dies"
+ },
+ {
+  "id": 196,
+  "name": "a dragon dies"
+ },
+ {
+  "id": 313,
+  "name": "a family member dies"
+ },
+ {
+  "id": 183,
+  "name": "a horse dies"
+ },
+ {
+  "id": 158,
+  "name": "a kid dies"
+ },
+ {
+  "id": 328,
+  "name": "a major character dies"
+ },
+ {
+  "id": 273,
+  "name": "a male character is ridiculed for crying"
+ },
+ {
+  "id": 263,
+  "name": "a mentally ill person is violent"
+ },
+ {
+  "id": 287,
+  "name": "a minor is sexualized"
+ },
+ {
+  "id": 294,
+  "name": "a minority is misrepresented"
+ },
+ {
+  "id": 305,
+  "name": "a non-human character dies"
+ },
+ {
+  "id": 168,
+  "name": "a parent dies"
+ },
+ {
+  "id": 208,
+  "name": "a person is hit by a car"
+ },
+ {
+  "id": 465,
+  "name": "a personality disorder is demonized"
+ },
+ {
+  "id": 285,
+  "name": "a pet dies"
+ },
+ {
+  "id": 198,
+  "name": "a plane crashes"
+ },
+ {
+  "id": 239,
+  "name": "a pregnant person dies"
+ },
+ {
+  "id": 329,
+  "name": "a priceless artifact is destroyed"
+ },
+ {
+  "id": 461,
+  "name": "a rape victim is not believed"
+ },
+ {
+  "id": 452,
+  "name": "a teacher abuses a student"
+ },
+ {
+  "id": 359,
+  "name": "a trans person is depicted predatorily"
+ },
+ {
+  "id": 342,
+  "name": "a woman gets slapped"
+ },
+ {
+  "id": 367,
+  "name": "a woman is brutalized for spectacle"
+ },
+ {
+  "id": 225,
+  "name": "alcohol abuse"
+ },
+ {
+  "id": 390,
+  "name": "an animal attacks someone"
+ },
+ {
+  "id": 189,
+  "name": "an animal dies"
+ },
+ {
+  "id": 350,
+  "name": "an animal is abandoned"
+ },
+ {
+  "id": 435,
+  "name": "an animal is hit by a vehicle"
+ },
+ {
+  "id": 355,
+  "name": "an animal is sad"
+ },
+ {
+  "id": 389,
+  "name": "an elderly person dies"
+ },
+ {
+  "id": 284,
+  "name": "an infant is abducted"
+ },
+ {
+  "id": 194,
+  "name": "an LGBT person dies"
+ },
+ {
+  "id": 368,
+  "name": "an LGBT+ person is outed"
+ },
+ {
+  "id": 229,
+  "name": "animals are abused"
+ },
+ {
+  "id": 319,
+  "name": "animals were harmed in the making"
+ },
+ {
+  "id": 349,
+  "name": "autism is misrepresented"
+ },
+ {
+  "id": 248,
+  "name": "Autism specific abuse"
+ },
+ {
+  "id": 404,
+  "name": "CPR is performed"
+ },
+ {
+  "id": 302,
+  "name": "D.I.D. Misrepresentation"
+ },
+ {
+  "id": 391,
+  "name": "diabetes is mocked or misrepresented"
+ },
+ {
+  "id": 205,
+  "name": "electro-therapy is used"
+ },
+ {
+  "id": 341,
+  "name": "existentialism is debated"
+ },
+ {
+  "id": 384,
+  "name": "family members argue"
+ },
+ {
+  "id": 352,
+  "name": "hands are damaged"
+ },
+ {
+  "id": 223,
+  "name": "heads get squashed"
+ },
+ {
+  "id": 434,
+  "name": "it ends on a cliffhanger"
+ },
+ {
+  "id": 462,
+  "name": "it's told from an abuser's point of view"
+ },
+ {
+  "id": 428,
+  "name": "mental illness is stigmatized or mocked"
+ },
+ {
+  "id": 190,
+  "name": "needles/syringes are used"
+ },
+ {
+  "id": 338,
+  "name": "rabbits are harmed"
+ },
+ {
+  "id": 334,
+  "name": "reality is unstable or unhinged"
+ },
+ {
+  "id": 351,
+  "name": "religion is discussed"
+ },
+ {
+  "id": 209,
+  "name": "Santa (et al) is spoiled"
+ },
+ {
+  "id": 437,
+  "name": "scars are shown or discussed"
+ },
+ {
+  "id": 315,
+  "name": "sexual assault on men is a joke"
+ },
+ {
+  "id": 181,
+  "name": "shaky cam is used"
+ },
+ {
+  "id": 387,
+  "name": "someone accidentally kills a loved one"
+ },
+ {
+  "id": 298,
+  "name": "Someone becomes unconscious"
+ },
+ {
+  "id": 216,
+  "name": "someone breaks a bone"
+ },
+ {
+  "id": 241,
+  "name": "someone cheats"
+ },
+ {
+  "id": 354,
+  "name": "someone defecates"
+ },
+ {
+  "id": 311,
+  "name": "someone dies"
+ },
+ {
+  "id": 353,
+  "name": "someone disabled played by able-bodied"
+ },
+ {
+  "id": 362,
+  "name": "someone dislocates something"
+ },
+ {
+  "id": 191,
+  "name": "someone drowns"
+ },
+ {
+  "id": 441,
+  "name": "someone fakes a disability"
+ },
+ {
+  "id": 271,
+  "name": "someone falls down stairs"
+ },
+ {
+  "id": 211,
+  "name": "someone falls to their death"
+ },
+ {
+  "id": 237,
+  "name": "someone gets gaslighted"
+ },
+ {
+  "id": 446,
+  "name": "someone has a bad trip"
+ },
+ {
+  "id": 288,
+  "name": "someone has a chronic illness"
+ },
+ {
+  "id": 375,
+  "name": "someone has a heart attack"
+ },
+ {
+  "id": 348,
+  "name": "someone has a meltdown"
+ },
+ {
+  "id": 336,
+  "name": "someone has a mental illness"
+ },
+ {
+  "id": 206,
+  "name": "someone has a seizure"
+ },
+ {
+  "id": 278,
+  "name": "someone has a stroke"
+ },
+ {
+  "id": 414,
+  "name": "someone has agoraphobia"
+ },
+ {
+  "id": 415,
+  "name": "someone has amnesia or memory loss"
+ },
+ {
+  "id": 238,
+  "name": "someone has an abortion"
+ },
+ {
+  "id": 420,
+  "name": "someone has an allergic reaction"
+ },
+ {
+  "id": 235,
+  "name": "someone has an anxiety attack"
+ },
+ {
+  "id": 217,
+  "name": "someone has an eating disorder"
+ },
+ {
+  "id": 204,
+  "name": "someone has cancer"
+ },
+ {
+  "id": 291,
+  "name": "someone has dementia/Alzheimer's"
+ },
+ {
+  "id": 365,
+  "name": "someone is abused with a belt"
+ },
+ {
+  "id": 321,
+  "name": "someone is beaten up by a bully"
+ },
+ {
+  "id": 413,
+  "name": "someone is betrayed"
+ },
+ {
+  "id": 416,
+  "name": "someone is brainwashed or mind controlled"
+ },
+ {
+  "id": 240,
+  "name": "someone is buried alive"
+ },
+ {
+  "id": 164,
+  "name": "someone is burned alive"
+ },
+ {
+  "id": 469,
+  "name": "someone is called a \"good boy\" or \"good girl\""
+ },
+ {
+  "id": 443,
+  "name": "someone is called a hypochondriac"
+ },
+ {
+  "id": 282,
+  "name": "someone is crushed to death"
+ },
+ {
+  "id": 299,
+  "name": "someone is drugged"
+ },
+ {
+  "id": 322,
+  "name": "someone is eaten"
+ },
+ {
+  "id": 438,
+  "name": "someone is executed"
+ },
+ {
+  "id": 406,
+  "name": "someone is harmed by acid"
+ },
+ {
+  "id": 308,
+  "name": "someone is held under water"
+ },
+ {
+  "id": 457,
+  "name": "someone is hit by a train"
+ },
+ {
+  "id": 270,
+  "name": "someone is homeless"
+ },
+ {
+  "id": 243,
+  "name": "someone is kidnapped"
+ },
+ {
+  "id": 226,
+  "name": "someone is misgendered"
+ },
+ {
+  "id": 440,
+  "name": "someone is mocked or persecuted for their religion"
+ },
+ {
+  "id": 224,
+  "name": "someone is possessed"
+ },
+ {
+  "id": 274,
+  "name": "someone is restrained"
+ },
+ {
+  "id": 388,
+  "name": "someone is robbed or mugged"
+ },
+ {
+  "id": 182,
+  "name": "someone is sexually assaulted"
+ },
+ {
+  "id": 276,
+  "name": "someone is sexually objectified"
+ },
+ {
+  "id": 343,
+  "name": "someone is stabbed"
+ },
+ {
+  "id": 242,
+  "name": "someone is stalked"
+ },
+ {
+  "id": 309,
+  "name": "someone is strangled"
+ },
+ {
+  "id": 327,
+  "name": "someone is terminally ill"
+ },
+ {
+  "id": 318,
+  "name": "someone is watched without knowing"
+ },
+ {
+  "id": 363,
+  "name": "someone leaves without saying goodbye"
+ },
+ {
+  "id": 445,
+  "name": "someone loses their job"
+ },
+ {
+  "id": 317,
+  "name": "someone loses their virginity"
+ },
+ {
+  "id": 412,
+  "name": "someone masturbates"
+ },
+ {
+  "id": 215,
+  "name": "someone miscarries"
+ },
+ {
+  "id": 453,
+  "name": "someone performs surgery on themselves"
+ },
+ {
+  "id": 289,
+  "name": "someone sacrifices themselves"
+ },
+ {
+  "id": 251,
+  "name": "someone says the n-word"
+ },
+ {
+  "id": 199,
+  "name": "someone self harms"
+ },
+ {
+  "id": 464,
+  "name": "someone smokes or vapes"
+ },
+ {
+  "id": 455,
+  "name": "someone speaks backwards"
+ },
+ {
+  "id": 212,
+  "name": "someone speaks hate speech"
+ },
+ {
+  "id": 467,
+  "name": "someone steps on a nail"
+ },
+ {
+  "id": 245,
+  "name": "someone struggles to breathe"
+ },
+ {
+  "id": 265,
+  "name": "someone suffers from PTSD"
+ },
+ {
+  "id": 423,
+  "name": "someone telling the truth is not believed"
+ },
+ {
+  "id": 193,
+  "name": "someone uses drugs"
+ },
+ {
+  "id": 201,
+  "name": "someone vomits"
+ },
+ {
+  "id": 257,
+  "name": "someone wets/soils themselves"
+ },
+ {
+  "id": 360,
+  "name": "someone's mouth is covered"
+ },
+ {
+  "id": 361,
+  "name": "someone's throat is mutilated"
+ },
+ {
+  "id": 210,
+  "name": "teeth are damaged"
+ },
+ {
+  "id": 304,
+  "name": "the abused becomes the abuser"
+ },
+ {
+  "id": 347,
+  "name": "the abused forgives their abuser"
+ },
+ {
+  "id": 234,
+  "name": "the black guy dies first"
+ },
+ {
+  "id": 222,
+  "name": "the ending is sad"
+ },
+ {
+  "id": 268,
+  "name": "the fourth wall is broken"
+ },
+ {
+  "id": 272,
+  "name": "the r-slur is used"
+ },
+ {
+  "id": 448,
+  "name": "there are \"emo\" jokes"
+ },
+ {
+  "id": 262,
+  "name": "there are \"Man in a dress\" jokes"
+ },
+ {
+  "id": 283,
+  "name": "there are 9/11 depictions"
+ },
+ {
+  "id": 382,
+  "name": "there are adoption or foster care themes"
+ },
+ {
+  "id": 456,
+  "name": "there are aliens"
+ },
+ {
+  "id": 213,
+  "name": "there are bugs"
+ },
+ {
+  "id": 174,
+  "name": "there are clowns"
+ },
+ {
+  "id": 432,
+  "name": "there are cockroaches"
+ },
+ {
+  "id": 394,
+  "name": "there are dolls or puppets"
+ },
+ {
+  "id": 444,
+  "name": "there are glitches or technology errors"
+ },
+ {
+  "id": 227,
+  "name": "there are hangings"
+ },
+ {
+  "id": 410,
+  "name": "there are high-pitched noises"
+ },
+ {
+  "id": 247,
+  "name": "there are homophobic slurs"
+ },
+ {
+  "id": 236,
+  "name": "there are incestuous relationships"
+ },
+ {
+  "id": 161,
+  "name": "there are jump scares"
+ },
+ {
+  "id": 295,
+  "name": "there are mannequins"
+ },
+ {
+  "id": 393,
+  "name": "there are mass casualties"
+ },
+ {
+  "id": 419,
+  "name": "there are Nazis or swastikas"
+ },
+ {
+  "id": 279,
+  "name": "there are nude scenes"
+ },
+ {
+  "id": 409,
+  "name": "there are rats or mice"
+ },
+ {
+  "id": 297,
+  "name": "there are razors"
+ },
+ {
+  "id": 433,
+  "name": "there are repetitive sounds"
+ },
+ {
+  "id": 337,
+  "name": "there are sharks"
+ },
+ {
+  "id": 176,
+  "name": "there are shower scenes"
+ },
+ {
+  "id": 383,
+  "name": "there are sirens or alarms"
+ },
+ {
+  "id": 214,
+  "name": "there are snakes"
+ },
+ {
+  "id": 165,
+  "name": "there are spiders"
+ },
+ {
+  "id": 339,
+  "name": "there are sudden loud noises"
+ },
+ {
+  "id": 397,
+  "name": "there are zombies"
+ },
+ {
+  "id": 266,
+  "name": "there is a baby or unborn child"
+ },
+ {
+  "id": 373,
+  "name": "there is a tsunami"
+ },
+ {
+  "id": 256,
+  "name": "there is copaganda"
+ },
+ {
+  "id": 290,
+  "name": "there is obscene language/gestures"
+ },
+ {
+  "id": 197,
+  "name": "there is sexual content"
+ },
+ {
+  "id": 418,
+  "name": "there's a breakup or divorce"
+ },
+ {
+  "id": 202,
+  "name": "there's a claustrophobic scene"
+ },
+ {
+  "id": 424,
+  "name": "there's a countdown or time pressure"
+ },
+ {
+  "id": 421,
+  "name": "there's a cult"
+ },
+ {
+  "id": 463,
+  "name": "there's a dentist scene"
+ },
+ {
+  "id": 386,
+  "name": "there's a fire"
+ },
+ {
+  "id": 408,
+  "name": "there's a funeral or cemetery scene"
+ },
+ {
+  "id": 450,
+  "name": "there's a home invasion"
+ },
+ {
+  "id": 192,
+  "name": "there's a hospital scene"
+ },
+ {
+  "id": 277,
+  "name": "there's a large age gap"
+ },
+ {
+  "id": 220,
+  "name": "there's a mental institution scene"
+ },
+ {
+  "id": 221,
+  "name": "there's a nuclear explosion"
+ },
+ {
+  "id": 451,
+  "name": "there's a scene with extreme heights"
+ },
+ {
+  "id": 323,
+  "name": "there's ABA therapy"
+ },
+ {
+  "id": 244,
+  "name": "there's ableist language or behavior"
+ },
+ {
+  "id": 330,
+  "name": "there's abusive parents"
+ },
+ {
+  "id": 280,
+  "name": "there's Achilles Tendon injury"
+ },
+ {
+  "id": 230,
+  "name": "there's addiction"
+ },
+ {
+  "id": 439,
+  "name": "there's addiction stigma"
+ },
+ {
+  "id": 250,
+  "name": "there's amputation"
+ },
+ {
+  "id": 332,
+  "name": "there's an alligator or crocodile"
+ },
+ {
+  "id": 399,
+  "name": "there's an apocalypse or end of the world"
+ },
+ {
+  "id": 231,
+  "name": "there's animal fighting"
+ },
+ {
+  "id": 316,
+  "name": "there's anti-abortion themes"
+ },
+ {
+  "id": 426,
+  "name": "there's anti-Indigenous racism"
+ },
+ {
+  "id": 246,
+  "name": "there's antisemitism"
+ },
+ {
+  "id": 303,
+  "name": "there's Aphobia"
+ },
+ {
+  "id": 371,
+  "name": "there's audience participation"
+ },
+ {
+  "id": 255,
+  "name": "There's audio gore"
+ },
+ {
+  "id": 364,
+  "name": "there's BDSM"
+ },
+ {
+  "id": 357,
+  "name": "there's bedbugs"
+ },
+ {
+  "id": 307,
+  "name": "there's bestiality"
+ },
+ {
+  "id": 385,
+  "name": "there's biphobia or bi erasure"
+ },
+ {
+  "id": 301,
+  "name": "there's bisexual cheating"
+ },
+ {
+  "id": 325,
+  "name": "there's blackface"
+ },
+ {
+  "id": 188,
+  "name": "there's blood/gore"
+ },
+ {
+  "id": 195,
+  "name": "there's body dysmorphia"
+ },
+ {
+  "id": 306,
+  "name": "there's body dysphoria"
+ },
+ {
+  "id": 296,
+  "name": "there's body horror"
+ },
+ {
+  "id": 254,
+  "name": "there's cannibalism"
+ },
+ {
+  "id": 218,
+  "name": "there's child abuse"
+ },
+ {
+  "id": 228,
+  "name": "there's childbirth"
+ },
+ {
+  "id": 459,
+  "name": "there's climate change"
+ },
+ {
+  "id": 398,
+  "name": "there's conversion therapy"
+ },
+ {
+  "id": 401,
+  "name": "there's corporal punishment"
+ },
+ {
+  "id": 396,
+  "name": "there's COVID-19"
+ },
+ {
+  "id": 442,
+  "name": "there's cultural appropriation"
+ },
+ {
+  "id": 310,
+  "name": "there's deadnaming or birthnaming"
+ },
+ {
+  "id": 331,
+  "name": "there's decapitation"
+ },
+ {
+  "id": 369,
+  "name": "there's demons or Hell"
+ },
+ {
+  "id": 370,
+  "name": "there's dissociation, depersonalization, or derealization"
+ },
+ {
+  "id": 219,
+  "name": "there's domestic violence"
+ },
+ {
+  "id": 411,
+  "name": "there's dubious consent or sexual coercion"
+ },
+ {
+  "id": 447,
+  "name": "there's elder abuse"
+ },
+ {
+  "id": 403,
+  "name": "there's emotional or verbal abuse"
+ },
+ {
+  "id": 346,
+  "name": "there's end credits scenes?"
+ },
+ {
+  "id": 377,
+  "name": "there's entrances from audience"
+ },
+ {
+  "id": 470,
+  "name": "there's environmental destruction"
+ },
+ {
+  "id": 200,
+  "name": "there's eye mutilation"
+ },
+ {
+  "id": 466,
+  "name": "there's facial distortion"
+ },
+ {
+  "id": 324,
+  "name": "there's farting"
+ },
+ {
+  "id": 233,
+  "name": "there's fat jokes"
+ },
+ {
+  "id": 300,
+  "name": "there's fat suits"
+ },
+ {
+  "id": 171,
+  "name": "there's finger/toe mutilation"
+ },
+ {
+  "id": 167,
+  "name": "there's flashing lights or images"
+ },
+ {
+  "id": 376,
+  "name": "there's flying onstage"
+ },
+ {
+  "id": 449,
+  "name": "there's gender essentialism"
+ },
+ {
+  "id": 258,
+  "name": "there's genital trauma/mutilation"
+ },
+ {
+  "id": 405,
+  "name": "there's genocide"
+ },
+ {
+  "id": 207,
+  "name": "there's ghosts"
+ },
+ {
+  "id": 232,
+  "name": "there's gun violence"
+ },
+ {
+  "id": 407,
+  "name": "there's human trafficking"
+ },
+ {
+  "id": 345,
+  "name": "there's incarceration"
+ },
+ {
+  "id": 395,
+  "name": "there's involuntary medical treatment"
+ },
+ {
+  "id": 402,
+  "name": "there's Islamophobia"
+ },
+ {
+  "id": 378,
+  "name": "there's live gunfire"
+ },
+ {
+  "id": 358,
+  "name": "there's menstruation"
+ },
+ {
+  "id": 260,
+  "name": "there's misophonia"
+ },
+ {
+  "id": 335,
+  "name": "there's natural bodies of water"
+ },
+ {
+  "id": 427,
+  "name": "there's police brutality"
+ },
+ {
+  "id": 468,
+  "name": "there's prejudice against children or teens"
+ },
+ {
+  "id": 458,
+  "name": "there's queerbaiting"
+ },
+ {
+  "id": 417,
+  "name": "there's religious abuse"
+ },
+ {
+  "id": 366,
+  "name": "there's screaming"
+ },
+ {
+  "id": 381,
+  "name": "there's secondhand embarrassment"
+ },
+ {
+  "id": 177,
+  "name": "there's shaving/cutting"
+ },
+ {
+  "id": 436,
+  "name": "there's slavery"
+ },
+ {
+  "id": 372,
+  "name": "there's smoke or haze"
+ },
+ {
+  "id": 180,
+  "name": "there's spitting"
+ },
+ {
+  "id": 187,
+  "name": "there's suicide"
+ },
+ {
+  "id": 454,
+  "name": "there's surgery or a medical procedure"
+ },
+ {
+  "id": 203,
+  "name": "there's torture"
+ },
+ {
+  "id": 314,
+  "name": "there's transphobia"
+ },
+ {
+  "id": 356,
+  "name": "there's underwater scenes"
+ },
+ {
+  "id": 431,
+  "name": "there's war"
+ },
+ {
+  "id": 312,
+  "name": "trypophobic content is shown"
+ },
+ {
+  "id": 392,
+  "name": "women are portrayed as incompetent"
+ }
+]

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="service.dtdd" name="DoesTheDogDie Warnings" version="0.1.1" provider-name="Megarushing">
+  <requires>
+    <import addon="xbmc.python" version="3.0.1"/>
+  </requires>
+  <extension point="xbmc.service" library="service.py"/>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en_GB">Pauses a video and warns you when an animal dies or is hurt in it (DoesTheDogDie.com)</summary>
+    <description lang="en_GB">When any video starts - library file, TMDb Helper or any other plugin - looks the movie or episode up on DoesTheDogDie.com. When one of your chosen topics is in it, the video pauses and a box shows the topic, the votes and what voters wrote. Exit stops the video, Continue plays on. Episodes warn only when a voter named that exact episode. Needs your own free DoesTheDogDie API key (profile page on doesthedogdie.com). Powered by DoesTheDogDie.com.</description>
+    <disclaimer lang="en_GB">Warnings come from DoesTheDogDie.com voters and can be missing or wrong. Not affiliated with DoesTheDogDie.com.</disclaimer>
+    <platform>all</platform>
+    <license>MIT</license>
+    <website>https://github.com/Megarushing/kodi-dtdd</website>
+    <source>https://github.com/Megarushing/kodi-dtdd</source>
+    <news>0.1.1: first public version. Spam voter texts are hidden; notes when the API key is missing or rejected.</news>
+    <assets>
+      <icon>resources/media/icon.png</icon>
+    </assets>
+  </extension>
+</addon>

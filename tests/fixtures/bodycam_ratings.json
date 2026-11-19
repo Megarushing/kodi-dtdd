@@ -1,0 +1,46 @@
+[
+ {
+  "topicId": 153,
+  "yes": 1,
+  "voteSum": 0,
+  "index1": 2,
+  "index2": 3,
+  "position1": -1,
+  "position2": -1,
+  "position3": -1,
+  "triggerDescription": "3 dogs are killed in a fire. Bodies are blurred out but it's still awful.  "
+ },
+ {
+  "topicId": 153,
+  "yes": 0,
+  "voteSum": 0,
+  "index1": 2,
+  "index2": 7,
+  "position1": -1,
+  "position2": -1,
+  "position3": -1,
+  "triggerDescription": "Police dog is shot during a standoff and runs off. Dog is missing after standoff ends four hours later. They find the dog two days later - had been shot twice but survived. First story in episode. "
+ },
+ {
+  "topicId": 229,
+  "yes": 1,
+  "voteSum": 1,
+  "index1": 4,
+  "index2": 7,
+  "position1": -1,
+  "position2": -1,
+  "position3": -1,
+  "triggerDescription": "A dog is shot in the eye by a suspect and cries out for quite a while. It is pretty heartbreaking. Luckily, the dog is saved and retires from the force. He loses an eye, but he is a happy dog who is well-loved by the officer who was his partner. At 17 minutes, you're in the clear. "
+ },
+ {
+  "topicId": 153,
+  "yes": 1,
+  "voteSum": 1,
+  "index1": -1,
+  "index2": -1,
+  "position1": -1,
+  "position2": -1,
+  "position3": -1,
+  "triggerDescription": "Season 2 Episode 3 - suspect with machete and a blow torch, 3 dogs are killed in the house fire.  The bodies are blurred out when cops are walking through house after fire is put out. "
+ }
+]

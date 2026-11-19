@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+  <category label="General">
+    <setting id="api_key" type="text" option="hidden" label="DoesTheDogDie API key (from your profile page on doesthedogdie.com)" default=""/>
+    <setting type="action" label="Choose topics that warn" action="RunScript(special://home/addons/service.dtdd/choose_topics.py)"/>
+    <setting id="topics" type="text" label="Chosen topic ids (set by Choose topics; empty = animal deaths and harm)" default=""/>
+    <setting id="notify_errors" type="bool" label="Show a short note when DoesTheDogDie cannot be reached" default="true"/>
+  </category>
+</settings>
