@@ -55,15 +55,15 @@ The add-on needs Kodi 19 (Matrix) or newer.
 | Setting | What it does |
 |---|---|
 | **API key** | Your DoesTheDogDie key. Without it, the add-on does nothing, and you get one short note per Kodi start. |
-| **Choose topics that warn** | Opens a list of all DoesTheDogDie topics (about 290). Tick the ones that should pause the video. |
-| **Show a short note when DoesTheDogDie cannot be reached** | On by default. A rejected API key is always shown. |
+| **Choose topics** | Opens a list of all DoesTheDogDie topics (about 290). Tick the ones that should pause the video. |
+| **Note when site is unreachable** | On by default. A rejected API key is always shown. |
 
 Topics on by default (animal deaths and harm):
 
 - a dog dies, a cat dies, a horse dies, a pet dies, an animal dies
 - animals are abused, an animal is hit by a vehicle, there's animal fighting, rabbits are harmed, animals were harmed in the making
 
-Off by default: a dragon dies, an animal is abandoned, an animal is sad, an animal attacks someone, bugs, and every topic about people. You can tick any of them, or any human topic, in **Choose topics that warn**.
+Off by default: a dragon dies, an animal is abandoned, an animal is sad, an animal attacks someone, bugs, and every topic about people. You can tick any of them, or any human topic, in **Choose topics**.
 
 ## Limits
 
