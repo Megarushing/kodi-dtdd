@@ -37,7 +37,13 @@ No player setup, no skin change.
 
 ## Install
 
-1. Get a free API key: create an account on [doesthedogdie.com](https://www.doesthedogdie.com), then copy the API key from your profile page.
+1. Get a free DoesTheDogDie API key:
+   1. Open [doesthedogdie.com/api](https://www.doesthedogdie.com/api) and click **Get free key** (in the Free column).
+   2. Sign in, or create an account with your e-mail address.
+   3. Accept the [API Terms of Service](https://www.doesthedogdie.com/api/terms). The free key is for non-commercial use only.
+   4. You land on your **Profile** page. Copy the API key shown there (it starts with `ddd_`).
+
+   You can find the key again at any time on [doesthedogdie.com/profile](https://www.doesthedogdie.com/profile).
 2. Download `service.dtdd-<version>.zip` from the [latest release](https://github.com/Megarushing/kodi-dtdd/releases/latest).
 3. In Kodi, open **Settings → Add-ons → Install from zip file** and pick the zip you downloaded. Kodi asks you to allow "Unknown sources" the first time.
 4. Open the add-on's settings (**Add-ons → My add-ons → Services → DoesTheDogDie Warnings → Configure**) and paste your API key.
